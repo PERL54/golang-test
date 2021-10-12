@@ -1,5 +1,7 @@
 # Golang Mastery Test for Godel
 
+![GOLANG LOGO](https://miro.medium.com/max/1200/1*Tq43_wi_LTqQVFUOR0npRg.jpeg "Golang")
+
 Все програамы компилируются и запускаются через стандартный `go run task#.go`
 
 - [X] Задание 1
